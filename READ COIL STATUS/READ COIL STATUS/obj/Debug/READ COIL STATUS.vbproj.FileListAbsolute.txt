@@ -1,0 +1,12 @@
+C:\Users\Bintang kalahari\source\repos\READ COIL STATUS\READ COIL STATUS\bin\Debug\READ COIL STATUS.exe.config
+C:\Users\Bintang kalahari\source\repos\READ COIL STATUS\READ COIL STATUS\bin\Debug\READ COIL STATUS.exe
+C:\Users\Bintang kalahari\source\repos\READ COIL STATUS\READ COIL STATUS\bin\Debug\READ COIL STATUS.pdb
+C:\Users\Bintang kalahari\source\repos\READ COIL STATUS\READ COIL STATUS\bin\Debug\READ COIL STATUS.xml
+C:\Users\Bintang kalahari\source\repos\READ COIL STATUS\READ COIL STATUS\obj\Debug\READ_COIL_STATUS.Resources.resources
+C:\Users\Bintang kalahari\source\repos\READ COIL STATUS\READ COIL STATUS\obj\Debug\READ_COIL_STATUS.READCOILSTATUSForm1.resources
+C:\Users\Bintang kalahari\source\repos\READ COIL STATUS\READ COIL STATUS\obj\Debug\READ COIL STATUS.vbproj.GenerateResource.cache
+C:\Users\Bintang kalahari\source\repos\READ COIL STATUS\READ COIL STATUS\obj\Debug\READ COIL STATUS.vbproj.CoreCompileInputs.cache
+C:\Users\Bintang kalahari\source\repos\READ COIL STATUS\READ COIL STATUS\obj\Debug\READ COIL STATUS.exe
+C:\Users\Bintang kalahari\source\repos\READ COIL STATUS\READ COIL STATUS\obj\Debug\READ COIL STATUS.xml
+C:\Users\Bintang kalahari\source\repos\READ COIL STATUS\READ COIL STATUS\obj\Debug\READ COIL STATUS.pdb
+C:\Users\Bintang kalahari\source\repos\READ COIL STATUS\READ COIL STATUS\obj\Debug\READ COIL STATUS.vbprojAssemblyReference.cache

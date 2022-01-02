@@ -1,0 +1,74 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+READ COIL STATUS
+</name>
+</assembly>
+<members>
+<member name="T:READ_COIL_STATUS.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:READ_COIL_STATUS.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:READ_COIL_STATUS.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="M:READ_COIL_STATUS.READCOILSTATUSForm1.Connect">
+ <summary>
+ Connect to device.
+ </summary>
+</member>
+<member name="M:READ_COIL_STATUS.READCOILSTATUSForm1.Disconnect">
+ <summary>
+ Disconnect with device.
+ </summary>
+</member>
+<member name="M:READ_COIL_STATUS.READCOILSTATUSForm1.Read">
+ <summary>
+Fynction:  Read Data
+ </summary>
+ <returns>Byte()</returns>
+</member>
+<member name="M:READ_COIL_STATUS.READCOILSTATUSForm1.Write(System.Byte[])">
+ <summary>
+ Function: Write frame to device.
+ </summary>
+ <param name="frame">frame: byte() </param>
+ <returns>Integer</returns>
+</member>
+<member name="M:READ_COIL_STATUS.READCOILSTATUSForm1.ConvertByteArrayToBooleanArray(System.Byte[])">
+ <summary>
+ Function: Convert byte array to boolean array.
+ </summary>
+ <param name="data">data: byte()</param>
+ <returns>Boolean()</returns>
+</member>
+<member name="M:READ_COIL_STATUS.READCOILSTATUSForm1.READCOILSTATUS(System.UInt16,System.Byte,System.UInt16,System.Byte,System.UInt16)">
+ <summary>
+ Function : READ COIL STATUS
+ </summary>
+ <param name="id">Transaction Identifier</param>
+ <param name="slaveAddress">Transaction Identifier</param>
+ <param name="startAddress">The unit Identifier</param>
+ <param name="functionCode">Function</param>
+ <param name="numberOfPoints">Quantify of Coils</param>
+ <returns>frame: byte()</returns>
+</member>
+<member name="M:READ_COIL_STATUS.READCOILSTATUSForm1.Display(System.Byte[])">
+ <summary>
+ Function: Display frame.
+ </summary>
+ <param name="data">Byte()</param>
+ <returns>String</returns>
+</member>
+</members>
+</doc>
